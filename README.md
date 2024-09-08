@@ -9,15 +9,15 @@ Lists all script injections for the current chat, but as a popup.
 
 ## Installation and Usage
 
-Oh I dunno, dump it in `data/default-user/extensions` and run `/getinjections`?
+Use ST's inbuilt extension installer then type `/getinjections`
 
 ### Installation
 
-Dump it in `data/default-user/extensions`
+Go to Extensions > Install Extension, paste `https://github.com/ceruleandeep/SillyTavern-GetInjections` into the box, click Save.
 
 ### Usage
 
-Run `/getinjections`
+Type `/getinjections`
 
 ## Support and Contributions
 
