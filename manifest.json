@@ -1,0 +1,10 @@
+{
+    "display_name": "Popup prompt injections",
+    "loading_order": 9,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "ceruleandeep",
+    "version": "1.0.0",
+    "homePage": ""
+}
